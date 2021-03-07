@@ -5,11 +5,9 @@ This was my first contact with React and Node. In this system we made an applica
 
 A gamification system was also used to promise challenges and instigate the achievement of goals.
 
-```bash
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-```
-
 ## Getting Started
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 

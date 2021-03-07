@@ -1,4 +1,13 @@
+## Next Level Week 4 (by: Rocketseat)
+Web application, developed through ReactJS, Next.js and NodeJS.
+
+This was my first contact with React and Node. In this system we made an application that tells us the correct time to rest our muscles during our work.
+
+A gamification system was also used to promise challenges and instigate the achievement of goals.
+
+```bash
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+```
 
 ## Getting Started
 
